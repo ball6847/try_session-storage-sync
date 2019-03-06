@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "session-storage-sync": "^0.6.0",
-    "uuid": "^3.3.2"
+    "session-storage-sync": "github:ball6847/session-storage-sync#81f5ce2"
   },
   "devDependencies": {
+    "parcel": "^1.11.0",
     "typescript": "^3.3.3333"
   }
 }

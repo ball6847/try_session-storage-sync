@@ -1,4 +1,4 @@
-import { Storage } from './lib/session-storage-sync/Storage';
+import { Storage } from 'session-storage-sync';
 
 const storage = new Storage();
 const btn = document.getElementById('btn') as HTMLButtonElement;
