@@ -1,0 +1,18 @@
+{
+  "name": "session-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "session-storage-sync": "^0.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
